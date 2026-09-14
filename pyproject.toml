@@ -1,0 +1,9 @@
+[project]
+name = "grasp-stacked-prs"
+version = "0.1.0"
+description = "Test project to learn how stacked PRs work in github context"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pytest>=9.1.1",
+]
